@@ -1,0 +1,30 @@
+Nombre Experto: Yazid
+Especialidad Experto: A
+Área De Interés: AA
+Ubicación Fija: AAA
+Contacto Persona: AAAA
+Teléfono Para Contactar: AAAA
+
+Nuevo Asunto: 
+Fecha de Inicio: 05/11/2024
+Fecha de Fin: 27/11/2024
+Ubicación: A
+Actividad: AA
+Encargado de Atención: AAA
+Teléfono de Contacto: AAA
+
+Nuevo Asunto: 
+Fecha de Inicio: 05/11/2024
+Fecha de Fin: 07/08/2024
+Ubicación: a
+Actividad: a
+Encargado de Atención: a
+Teléfono de Contacto: a
+
+Nuevo Asunto: 
+Fecha de Inicio: 19/11/2024
+Fecha de Fin: 20/11/2024
+Ubicación: aa
+Actividad: sss
+Encargado de Atención: sss
+Teléfono de Contacto: sss

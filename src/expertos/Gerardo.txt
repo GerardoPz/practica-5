@@ -1,0 +1,38 @@
+Nombre Experto: Gerardo
+Especialidad Experto: Programacion
+Área De Interés: Pagunas Web
+Ubicación Fija: Mexico
+Contacto Persona: Yazid
+Teléfono Para Contactar: 2721302355
+
+Nuevo Asunto: 
+Fecha de Inicio: 05/11/2024
+Fecha de Fin: 06/11/2024
+Ubicación: Mexico
+Actividad: Pop
+Encargado de Atención: Pop
+Teléfono de Contacto: 123321123
+
+Nuevo Asunto: 
+Fecha de Inicio: 05/11/2024
+Fecha de Fin: 14/11/2024
+Ubicación: a
+Actividad: aaa
+Encargado de Atención: aaa
+Teléfono de Contacto: aaa
+
+Nuevo Asunto: 
+Fecha de Inicio: 13/11/2024
+Fecha de Fin: 13/11/2024
+Ubicación: a
+Actividad: s
+Encargado de Atención: s
+Teléfono de Contacto: ddd
+
+Nuevo Asunto: 
+Fecha de Inicio: 05/11/2024
+Fecha de Fin: 13/11/2024
+Ubicación: pOPOPOP
+Actividad: AA
+Encargado de Atención: AA
+Teléfono de Contacto: AA
